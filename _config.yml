@@ -1,0 +1,8 @@
+title: My Cool Site
+description: A sample Jekyll site hosted on GitHub Pages
+baseurl: "/sphysix"  # important for GitHub project pages
+url: "https://rplano.github.io/"
+
+theme: minima
+markdown: kramdown
+permalink: pretty
