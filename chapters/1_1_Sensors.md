@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2.1 Smartphone Sensors – An Overview
+title: 1.1 Smartphone Sensors – An Overview
 ---
 
 ## Smartphone Sensors – An Overview
