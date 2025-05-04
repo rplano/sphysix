@@ -1,8 +1,13 @@
-# Appendix A: Smartphone Science Reference Tables
+---
+layout: default
+title: A. Smartphone Science Reference Tables
+---
+
+## Appendix A: Smartphone Science Reference Tables
 
 This appendix collects a series of structured tables that categorize and summarize the technical elements most relevant to using smartphones for scientific experiments. Unlike model-specific data, these tables focus on the types of components and capabilities that are generally available across most modern smartphones and smartwatches, as well as software-derived features that expand experimental possibilities.
 
-## A.1 Output Devices
+#### Output Devices
 
 These are components your smartphone uses to deliver information back to the user or to interact with the environment. While often overlooked in science education, outputs like the flashlight or screen can be cleverly repurposed for experiments.
 
@@ -46,7 +51,7 @@ These are components your smartphone uses to deliver information back to the use
  Latency, RF interference studies |
 
 
-## A.2 Smartphone Hardware Input Sensors
+#### Smartphone Hardware Input Sensors
 
 These are the primary built-in components that allow the phone to gather data from the world.
 
@@ -167,7 +172,7 @@ These are the primary built-in components that allow the phone to gather data fr
  * *Rare or only present in higher-end models. May not be accessible on all devices.*
 
 
-## A.3 Smartwatch Sensors (Common Across Most Modern Devices)
+#### Smartwatch Sensors (Common Across Most Modern Devices)
 
 While smartphones are powerful scientific tools, smartwatches expand the possibilities for body-centric and wearable experiments. These sensors are optimized for continuous monitoring of motion, physiology, and environmental exposure and can be synchronized with a phone for richer datasets.
 
@@ -214,7 +219,7 @@ While smartphones are powerful scientific tools, smartwatches expand the possibi
  Skin temperature tracking |
 
 
-## A.4 Sensor Fusion: Android Virtual Sensors
+#### Sensor Fusion: Android Virtual Sensors
 
 Modern smartphones use data from multiple sensors to create more accurate and stable “virtual sensors.” These are not physical components but software-derived data streams that compensate for drift, noise, or missing axes — and they are indispensable in precise motion tracking.
 
@@ -266,7 +271,7 @@ Modern smartphones use data from multiple sensors to create more accurate and st
  UI triggers, ergonomic design |
 
 
-## A.5 Artificial / Software-Derived Sensors
+#### Artificial / Software-Derived Sensors
 
 Some inputs are not derived from dedicated hardware but instead inferred through clever combinations of data and algorithms. These artificial sensors are useful in interpreting environmental context, human behavior, or even subtle biological signals.
 
@@ -330,7 +335,7 @@ Some inputs are not derived from dedicated hardware but instead inferred through
  Pendulums, rotational motion |
  
 
-## A.6 Filters That Make Sense for Smartphone Sensor Data
+#### Filters That Make Sense for Smartphone Sensor Data
 
 Raw data is often messy. Filters are essential tools in extracting meaningful signals from noisy inputs — especially in experiments involving motion, sound, or changing conditions. Understanding these tools helps students make cleaner measurements and build better models.
 
@@ -386,7 +391,7 @@ Raw data is often messy. Filters are essential tools in extracting meaningful si
  Advanced signal inspection; often overkill for high school projects |
 
 
-## A.7 Sources of Randomness
+#### Sources of Randomness
 
 Randomness may seem like a nuisance in experiments, but it’s also a powerful tool — for simulations, cryptography, or understanding statistical variation. Smartphones offer multiple sources of measurable randomness, from thermal noise to pixel jitter.
 
