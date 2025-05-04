@@ -2,28 +2,32 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>{{ page.title }} | {{ site.title }}</title>
+  <meta charset="UTF-8">
+  <meta name="description" content="SPhysix: Smartphone Physics with AI">
+  <meta name="keywords" content="Smartphone, Physics, AI">
+  <meta name="author" content="Ralph P. Lano">
+  <meta name="robots" content="index,follow">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css" />
 </head>
-<body>
-  <header>
-    <div class="header-content">
-      <h1><a href="{{ site.baseurl }}/index.html">{{ site.title }}</a></h1>
-    </div>
-  </header>
-
+<body><center>
+<div id="wrap">
   <ul class="sidenav" id="main-nav">
     <!-- navigation.js will populate this -->
   </ul>
 
   <div class="content">
+    <h1><a href="{{ site.baseurl }}/index.html">{{ site.title }}</a></h1>
     {{ content }}
+    <p class="footer">
+      &copy; {{ site.time | date: "%Y" }} {{ site.title }}
+    </p>
   </div>
 
-  <p class="footer">
-    &copy; {{ site.time | date: "%Y" }} {{ site.title }}
-  </p>
+</div>
+</center>
+</div>
 
   <script src="{{ site.baseurl }}/assets/navigation.js"></script>
 </body>
