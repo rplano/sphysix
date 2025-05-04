@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1.1 Welcome
+title: 0.1 Welcome
 ---
 
 ## Welcome to Sphysix
