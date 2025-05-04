@@ -1,4 +1,3 @@
-// Define your chapter structure
 const chapters = [
   { title: "2.0 Part II – Introduction", file: "2_0_part_ii.html" },
   { title: "2.1 Mechanics", file: "2_1_mechanics.html" },
@@ -7,18 +6,17 @@ const chapters = [
   { title: "3.1 Subsection", file: "3_1_subsection.html" }
 ];
 
-// Build the navigation HTML
-const sidebar = document.getElementById("sidebar");
+const nav = document.getElementById("main-nav");
+const currentPath = window.location.pathname.split("/").pop();
 
-if (sidebar) {
-  const list = document.createElement("ul");
-  chapters.forEach(chap => {
-    const item = document.createElement("li");
-    const link = document.createElement("a");
-    link.href = `${window.location.origin}/sphysix/chapters/${chap.file}`;
-    link.textContent = chap.title;
-    item.appendChild(link);
-    list.appendChild(item);
-  });
-  sidebar.appendChild(list);
-}
+chapters.forEach(chap => {
+  const link = document.createElement("a");
+  link.href = `${window.location.origin}/sphysix/chapters/${chap.file}`;
+  link.textContent = chap.title;
+
+  if (currentPath === chap.file) {
+    link.classList.add("active");
+  }
+
+  nav.appendChild(link);
+});
