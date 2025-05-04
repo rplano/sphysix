@@ -1,73 +1,141 @@
 body {
-  font-family: Arial, sans-serif;
   margin: 0;
-  padding: 0;
-  background: #f9f9f9;
-  color: #333;
+  font-size: 11px;
+  font-family: Arial, sans-serif;
+  color:#222;
+  line-height: 1.4;
 }
 
+#wrap {
+  width:600px;
+}
+
+/* === Added for layout === */
 header {
-  background: #2c3e50;
+  background-color: #1f3163;
   color: white;
-  padding: 1em;
-}
-
-.header-content {
+  padding: 10px;
   display: flex;
   align-items: center;
 }
 
-.logo {
-  height: 50px;
-  margin-right: 15px;
+header img.logo {
+  height: 40px;
+  margin-right: 10px;
 }
 
 header h1 {
-  margin: 0;
   font-size: 1.8em;
+  margin: 0;
+  color: white;
 }
 
-header h1 a {
-  color: white;
+/* === Original styles below preserved === */
+
+h1 {
+  font-size: 2.0em;
+  font-variant: small-caps;
+  text-align: center;
+  color:#34ade3;
+}
+
+h2 {
+  font-size: 1.3em;
+  color:#34ade3;
+}
+
+h3 {
+  font-size: 1.1em;
+  color:#34ade3;
+}
+
+a {
+  color:#34ade3;
   text-decoration: none;
 }
 
-#main-nav {
-  background: #ddd;
-  display: flex;
-  flex-wrap: wrap;
-  padding: 0.5em 1em;
-  border-bottom: 1px solid #ccc;
+p {
+  text-align: justify;
 }
 
-#main-nav a {
-  margin-right: 1em;
-  text-decoration: none;
-  color: #333;
-  padding: 0.3em 0.6em;
-  border-radius: 4px;
+p.footer {
+  font-size: 0.8em;
+  text-align: right;
 }
 
-#main-nav a:hover {
-  background: #ccc;
+img {
+  padding: 10px 0px 10px 10px;
 }
 
-#main-nav a.active {
-  background: #2c3e50;
-  color: white;
+pre {
+  background-color: #f1f1f1;
+  padding: 10px 5px;
+  border-radius: 10px;
+  text-align: left;
+  margin: 10px;
+  font-size: 11px;
+  font-family: Courier, monospace;
   font-weight: bold;
 }
 
-main {
-  max-width: 960px;
-  margin: 2em auto;
-  padding: 0 1em;
-  background: white;
+div.content {
+  padding: 1px 16px;
 }
 
-footer {
-  text-align: center;
-  padding: 1em;
-  color: #666;
-  font-size: 0.9em;
+ul {
+  text-align: left;
+}
+
+ol {
+  text-align: left;
+}
+
+ul.sidenav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: auto;
+  background-color: #f1f1f1;
+  position: relative;
+  overflow: auto;
+}
+
+ul.sidenav p a {
+  font-size: 1.1em;
+  font-weight: bold;
+  display: block;
+  background-color: #1f3163;
+  color: white;
+  padding: 4px 0px 4px 0px;
+  text-decoration: none;
+}
+
+ul.sidenav li a {
+  text-transform: lowercase;
+  float: left;
+  color: black;
+  padding: 0px 5px 5px 10px;
+  text-decoration: none;
+}
+
+ul.sidenav li a.active {
+  color: #34ade3;
+}
+
+/* === Responsive tweaks (original) === */
+@media screen and (max-width: 600px) {
+  #wrap {
+    width:400px;
+  }
+
+  ul.sidenav li {
+    text-align: center;
+    float: none;
+  }
+
+  ul.sidenav li a {
+    text-align: center;
+    float: none;
+  }
 }
