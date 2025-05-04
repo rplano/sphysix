@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2.3 Data Acquisition and AI
+title: 1.3 Data Acquisition and AI
 ---
 
 ## Data Acquisition and AI
