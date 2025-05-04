@@ -13,17 +13,17 @@
     </div>
   </header>
 
-  <nav id="main-nav">
+  <ul class="sidenav" id="main-nav">
     <!-- navigation.js will populate this -->
-  </nav>
+  </ul>
 
-  <main>
+  <div class="content">
     {{ content }}
-  </main>
+  </div>
 
-  <footer>
-    <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
-  </footer>
+  <p class="footer">
+    &copy; {{ site.time | date: "%Y" }} {{ site.title }}
+  </p>
 
   <script src="{{ site.baseurl }}/assets/navigation.js"></script>
 </body>
