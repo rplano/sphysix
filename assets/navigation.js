@@ -46,7 +46,7 @@ const nav = document.getElementById("main-nav");
 //const currentPath = window.location.pathname.split("/").pop();
 const currentFile = window.location.pathname.split("/").pop();
 
-if (currentFile === "" || currentFile === "index.html") {
+if (currentFile === "" || currentFile === "index.html" || currentFile === "experiments.html") {
   // At index — show chapters
   book.forEach(chap => {
     const li = document.createElement("li");
@@ -76,21 +76,3 @@ if (currentFile === "" || currentFile === "index.html") {
     });
   }
 }
-  /*
-  chapters.forEach(chap => {
-    const item = document.createElement("li");
-    const link = document.createElement("a");
-  
-    //link.href = `${window.location.origin}/sphysix/chapters/${chap.file}`;
-    link.href = `${baseurl}/chapters/${chap.file}`;
-    link.textContent = chap.title;
-
-    if (currentPath === chap.file) {
-      link.classList.add("active");
-    }
-
-    item.appendChild(link);
-    nav.appendChild(item);
-  });
-}
-*/
