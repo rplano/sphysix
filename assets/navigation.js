@@ -86,22 +86,12 @@ const book = [
     { title: "Safety Guide", file: "C_Safety.html" },
     { title: "Equipment", file: "D_Equipment.html" },
     { title: "Experiments", file: "../experiments.html" },
-    { title: "Glossary", file: "F_Glossary.html" },
-    { title: "Index", file: "G_Index.html" }
+    { title: "Glossary", file: "F_Glossary.html" }
   ]
 }  
 ];
-/*
-const chapters = [
-  { title: "Part II – Introduction", file: "2_0_part_ii.html" },
-  { title: "Mechanics", file: "2_1_mechanics.html" },
-  { title: "More Mechanics", file: "2_2_more_mechanics.html" },
-  { title: "Next Section", file: "3_0_next_section.html" },
-  { title: "Subsection", file: "3_1_subsection.html" }
-];
-*/
+
 const nav = document.getElementById("main-nav");
-//const currentPath = window.location.pathname.split("/").pop();
 const currentFile = window.location.pathname.split("/").pop();
 
 if (currentFile === "" || currentFile === "index.html" || currentFile === "experiments.html") {
