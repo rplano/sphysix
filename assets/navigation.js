@@ -2,12 +2,12 @@ const baseurl = "/sphysix";
 
 const book = [
   {
-    id: "-1", title: "0. Experiments", file: "../experiments.html",
+    id: "0", title: "Experiments", file: "../experiments.html",
     subchapters: [
     ]
   },
   {
-    id: "0", title: "0. Preface", file: "0_0_Preface.html",
+    id: "1", title: "Preface", file: "0_0_Preface.html",
     subchapters: [
       { title: "Welcome", file: "0_1_Welcome.html" },
       { title: "How To", file: "0_2_How_To.html" },
@@ -15,7 +15,7 @@ const book = [
     ]
   },
   {
-    id: "1", title: "I. Smartphone", file: "1_0_Smartphone.html",
+    id: "2", title: "I. Smartphone", file: "1_0_Smartphone.html",
     subchapters: [
       { title: "Smartphone Sensors", file: "1_1_Sensors.html" },	
       { title: "Accessories", file: "1_2_Accessories.html" },
@@ -25,14 +25,14 @@ const book = [
     ]
   },
   {
-    id: "2", title: "II. Introduction", file: "2_0_part_ii.html",
+    id: "3", title: "II. Introduction", file: "2_0_part_ii.html",
     subchapters: [
       { title: "Mechanics", file: "2_1_mechanics.html" },
       { title: "More Mechanics", file: "2_2_more_mechanics.html" }
     ]
   },
   {
-    id: "3", title: "III. Physics", file: "3_0_next_section.html",
+    id: "4", title: "III. Physics", file: "3_0_next_section.html",
     subchapters: [
       { title: "Subsection", file: "3_1_subsection.html" }
     ]
