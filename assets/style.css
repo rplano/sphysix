@@ -104,6 +104,18 @@ ul.sidenav li a.active {
   color: #34ade3;
 }
 
+.nav-wrapper {
+  display: flex;
+  align-items: stretch; /* logo height = ul height */
+}
+
+.nav-logo {
+  height: auto;
+  max-height: 100%;
+  object-fit: contain;
+  padding: 4px 10px;
+}
+
 /* === Responsive tweaks (original) === */
 @media screen and (max-width: 600px) {
   #wrap {
