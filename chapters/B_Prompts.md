@@ -1,6 +1,6 @@
 ---
 layout: default
-title: B AI Prompt Library
+title: B. AI Prompt Library
 ---
 
 ## Appendix B: AI Prompt Library
