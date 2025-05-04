@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1.3 Safety First
+title: 0.3 Safety First
 ---
 
 ## Safety First
