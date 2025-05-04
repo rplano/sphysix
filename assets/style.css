@@ -10,26 +10,6 @@ body {
   width:600px;
 }
 
-/* === Added for layout === */
-header {
-  background-color: #1f3163;
-  color: white;
-  padding: 10px;
-  display: flex;
-  align-items: center;
-}
-
-header img.logo {
-  height: 40px;
-  margin-right: 10px;
-}
-
-header h1 {
-  font-size: 1.8em;
-  margin: 0;
-  color: white;
-}
-
 /* === Original styles below preserved === */
 
 h1 {
@@ -104,6 +84,7 @@ ul.sidenav {
 ul.sidenav p a {
   font-size: 1.1em;
   font-weight: bold;
+  text-align: center;
   display: block;
   background-color: #1f3163;
   color: white;
