@@ -117,6 +117,7 @@ title: List of Experiment
 - **WAVE-22** Acoustic Levitation: Floating Small Objects Using Sound Waves
 
 
+---
 ## Light, Optics & Vision
 
 #### Basic Principles
@@ -174,6 +175,7 @@ title: List of Experiment
 - **OPTI-36** Exploring Fourier Optics and the 4F Correlator
 
 
+---
 ## Heat & Thermodynamics
 
 #### Temperature, Heat, and Energy Transfer
@@ -210,6 +212,7 @@ title: List of Experiment
 - **HEAT-19** Negative Temperatures and Population Inversion: A Conceptual Exploration
 
 
+---
 ## Fluid Dynamics
 
 #### Air Pressure and Temperature
@@ -243,6 +246,7 @@ title: List of Experiment
 - **FLUID-18** Exploring Airflow and Lift: Bernoulli Papers and Flying Tubes
 
 
+---
 ## Electromagnetism & Fields
 
 #### Mapping Magnetic Fields
@@ -294,6 +298,7 @@ title: List of Experiment
 - **EMAG-34** Inquiry Sidebar — Magnetic Liquids That Aren’t Ferrofluids
 
 
+---
 ## Radioactivity & Nuclear Physics
 
 #### Natural & Safe Radioactive Sources
@@ -315,6 +320,7 @@ title: List of Experiment
 - **NUCL-08** Phone Radiation ≠ Radioactivity
 
 
+---
 ## Astronomy & Astrophysics
 
 #### Earth-Based Astronomy
@@ -361,6 +367,7 @@ title: List of Experiment
 - **ASTR-27** Hipparchus, Parallax, and the Distance to the Moon
 
 
+---
 ## Constants & Modern Physics
 
 #### Gravitational Constant
@@ -402,6 +409,7 @@ title: List of Experiment
 - **Capstone 2:** Building a High-Precision DIY Quartz Clock for Time Dilation Experiments
 
 
+---
 ## Chemistry & Materials Science
 
 #### Color-Based Analysis (Indicators, Absorbance, Fluorescence)
@@ -421,6 +429,7 @@ title: List of Experiment
 - **CHEM-08** Capillary Action in Paper Towels
 
 
+---
 ## Biology
 
 #### Build Your Microscope
@@ -476,6 +485,7 @@ title: List of Experiment
 - **BIO-34** Echoes of the Wild: Analyzing Birdsong and Insect Calls
 
 
+---
 ## Biophysics & the Human Body
 
 #### Cardiovascular Monitoring & Circulatory Response
@@ -516,6 +526,7 @@ title: List of Experiment
 - **BIOP-21** Capstone: DIY Biomedical Sensing — Hacking the Smartphone into a Biosignal Lab
 
 
+---
 ## Environmental Physics
 
 #### Atmospheric Pressure & Altitude Physics
@@ -546,6 +557,7 @@ title: List of Experiment
 - **ENVP-13** Detecting Micro-Movements — Earthquake Sensors from Simple to Sophisticated
 
 
+---
 ## Information Theory & Signal Science
 
 #### Signal Transmission, Delay & Degradation
