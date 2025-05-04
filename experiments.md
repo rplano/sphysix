@@ -6,6 +6,26 @@ title: List of Experiment
 # List of Experiments
 
 
+## List of Prefixes
+
+| Chapter Title | Code Prefix |
+| ------------- | ----------- |
+| Mechanics & Motion | **MECH** |
+| Sound & Waves | **WAVE** |
+| Light, Optics & Vision | **OPTI** |
+| Heat & Thermodynamics | **HEAT** |
+| Fluid Dynamics | **FLUID** |
+| Electromagnetism | **EMAG** |
+| Radioactivity | **NUCL** |
+| Modern Physics & Constants | **MODP** |
+| Astronomy | **ASTR** |
+| Chemistry | **CHEM** |
+| Biology | **BIO** |
+| Biophysics | **BIOP** |
+| Environmental Physics | **ENVP** |
+| Information & Signal Physics | **INFO** |
+
+
 ## Mechanics & Motion
 
 #### Free Fall & Acceleration
@@ -544,23 +564,3 @@ title: List of Experiment
 
 #### Sampling, Quantization & Bitrate
 - **INFO-12** Nyquist in Action: Sampling Limits and Aliasing
-
-
-## List of Prefixes
-
-| Chapter Title | Code Prefix |
-| ------------- | ----------- |
-| Mechanics & Motion | **MECH** |
-| Sound & Waves | **WAVE** |
-| Light, Optics & Vision | **OPTI** |
-| Heat & Thermodynamics | **HEAT** |
-| Fluid Dynamics | **FLUID** |
-| Electromagnetism | **EMAG** |
-| Radioactivity | **NUCL** |
-| Modern Physics & Constants | **MODP** |
-| Astronomy | **ASTR** |
-| Chemistry | **CHEM** |
-| Biology | **BIO** |
-| Biophysics | **BIOP** |
-| Environmental Physics | **ENVP** |
-| Information & Signal Physics | **INFO** |
