@@ -27,12 +27,12 @@ const book = [
   {
   id: "3", title: "Math", file: "2_0_Math.html",
   subchapters: [
-    { title: "Making Sense of Data", file: "2_1_Data.html" },
-    { title: "Graphs Tell Stories", file: "2_2_Graphs.html" },
-    { title: "Units and Scales", file: "2_3_Units.html" },
-    { title: "How to trust a Number", file: "2_4_Trust.html" },
-    { title: "AI-Powered Math", file: "2_5_AI.html" },
-    { title: "From Curiosity 2 Eqn", file: "2_6_Equation.html" }
+    { title: "Data Sense", file: "2_1_Data.html" },
+    { title: "Graph Stories", file: "2_2_Graphs.html" },
+    { title: "Units & Scales", file: "2_3_Units.html" },
+    { title: "Trust a Number", file: "2_4_Trust.html" },
+    { title: "AI-Power", file: "2_5_AI.html" },
+    { title: "Curiosity to Equation", file: "2_6_Equation.html" }
   ]
   },
 {
