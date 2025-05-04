@@ -1,10 +1,30 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>{{ page.title }}</title>
-  <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css" />
 </head>
 <body>
-  {{ content }}
+  <header>
+    <h1><a href="{{ site.baseurl }}/index.html">{{ site.title }}</a></h1>
+  </header>
+
+  <div class="container">
+    <aside id="sidebar">
+      <!-- JavaScript will populate this -->
+    </aside>
+
+    <main>
+      {{ content }}
+    </main>
+  </div>
+
+  <footer>
+    <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}. All rights reserved.</p>
+  </footer>
+
+  <script src="{{ site.baseurl }}/assets/navigation.js"></script>
 </body>
 </html>
