@@ -15,12 +15,12 @@ SPhysix - Smartphone Physics Experiments with AI - is more than a collection of 
 - [How To](chapters/0_2_How_To.html)  
 - [Safety First](chapters/0_3_Safety_First.html)  
 
-#### Part I: The Smartphone
-- Smartphone Sensors  
-- Accessories  
-- Data Acquisition  
-- How to Measure  
-- Apps and Tools  
+#### [Part I: The Smartphone](chapters/1_0_Smartphone.html)
+- [Smartphone Sensors](chapters/1_1_Sensors.html)  
+- [Accessories](chapters/1_2_Accessories.html)  
+- [Data Acquisition](chapters/1_3_Data.html)
+- [How to Measure](chapters/1_4_Measure.html)
+- [Apps and Tools](chapters/1_5_Apps.html)
 
 #### Part II: Math Without Fear
 - Making Sense of Data  
@@ -59,8 +59,7 @@ SPhysix - Smartphone Physics Experiments with AI - is more than a collection of 
 - Inquiry Extensions  
 - Sharing Results  
 - Your Own Experiments  
-- Next Steps  
-
+- Next Steps 
 - Epilogue
 
 #### Appendices
@@ -71,8 +70,3 @@ SPhysix - Smartphone Physics Experiments with AI - is more than a collection of 
 - E. List of Experiments  
 - F. Glossary of Terms  
 - G. Index
-
----
-## Quick Links
-- [ReadMe](readme.md)
-- [GitHub Repo](https://github.com/rplano/sphysix)
