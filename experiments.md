@@ -5,7 +5,7 @@ title: List of Experiment
 
 # List of Experiments
 
-
+---
 ## List of Prefixes
 
 | Chapter Title | Code Prefix |
@@ -26,6 +26,7 @@ title: List of Experiment
 | Information & Signal Physics | **INFO** |
 
 
+---
 ## Mechanics & Motion
 
 #### Free Fall & Acceleration
@@ -78,6 +79,7 @@ title: List of Experiment
 - **MECH-27** Eötvös, Einstein, and the Equivalence Principle
 
 
+---
 ## Sound & Waves
 
 #### Sound Propagation & Perception
