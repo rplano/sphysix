@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2.2 Accessories and Add-ons
+title: 1.2 Accessories and Add-ons
 ---
 
 ## Accessories and Add-ons
