@@ -7,6 +7,8 @@ title: A. Smartphone Science Reference Tables
 
 This appendix collects a series of structured tables that categorize and summarize the technical elements most relevant to using smartphones for scientific experiments. Unlike model-specific data, these tables focus on the types of components and capabilities that are generally available across most modern smartphones and smartwatches, as well as software-derived features that expand experimental possibilities.
 
+---
+
 ### Output Devices
 
 These are components your smartphone uses to deliver information back to the user or to interact with the environment. While often overlooked in science education, outputs like the flashlight or screen can be cleverly repurposed for experiments.
@@ -23,6 +25,7 @@ These are components your smartphone uses to deliver information back to the use
 | NFC / RFID | EM Field | Near-field signaling, detection |
 | Cellular Radio | EM Signal | Latency, RF interference studies |
 
+---
 
 ### Smartphone Hardware Input Sensors
 
@@ -55,6 +58,7 @@ These are the primary built-in components that allow the phone to gather data fr
 
  * *Rare or only present in higher-end models. May not be accessible on all devices.*
 
+---
 
 ### Smartwatch Sensors (Common Across Most Modern Devices)
 
@@ -76,6 +80,7 @@ While smartphones are powerful scientific tools, smartwatches expand the possibi
 | **Skin Contact Sensor** | Detects if watch is worn | Ensures accuracy of bio-data |
 | **IR Thermometer** *(rare)* | Infrared surface temperature | Skin temperature tracking |
 
+---
 
 ### Sensor Fusion: Android Virtual Sensors
 
@@ -95,6 +100,7 @@ Modern smartphones use data from multiple sensors to create more accurate and st
 | **Significant Motion Detector** | Accel + AI | Detects major movement patterns | Wake-up triggers, motion detection |
 | **Tilt Detector** | Accel | Detects device tilt beyond threshold | UI triggers, ergonomic design |
 
+---
 
 ### Artificial / Software-Derived Sensors
 
@@ -117,6 +123,7 @@ Some inputs are not derived from dedicated hardware but instead inferred through
 | **Time-of-Flight via Sound** | Speaker → mic roundtrip | Distance (cm-m scale) | Simple sonar, object detection |
 | **Angular Displacement (Image)** | Marker position/frame | Angle vs time | Pendulums, rotational motion |
  
+---
 
 ### Filters That Make Sense for Smartphone Sensor Data
 
@@ -141,6 +148,7 @@ Raw data is often messy. Filters are essential tools in extracting meaningful si
 | **Laplace Transform** |  Time-frequency transformation (theoretical) |  More useful in modeling/control theory than in raw sensor data |
 | **Wavelet Transform** |  Multiscale time-frequency analysis |  Advanced signal inspection; often overkill for high school projects |
 
+---
 
 ### Sources of Randomness
 
