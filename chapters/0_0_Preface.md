@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 0 Preface
+title: 0.0 Preface
 ---
 
 # Preface
