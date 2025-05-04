@@ -25,18 +25,71 @@ const book = [
     ]
   },
   {
-    id: "3", title: "II. Introduction", file: "2_0_part_ii.html",
-    subchapters: [
-      { title: "Mechanics", file: "2_1_mechanics.html" },
-      { title: "More Mechanics", file: "2_2_more_mechanics.html" }
-    ]
+  id: "3", title: "II. Math Without Fear", file: "2_0_Math.html",
+  subchapters: [
+    { title: "Making Sense of Data", file: "2_1_Data.html" },
+    { title: "Graphs Tell Stories", file: "2_2_Graphs.html" },
+    { title: "Units and Scales", file: "2_3_Units.html" },
+    { title: "How to trust a Number", file: "2_4_Trust.html" },
+    { title: "AI-Powered Math", file: "2_5_AI.html" },
+    { title: "From Curiosity 2 Eqn", file: "2_6_Equation.html" }
+  ]
   },
-  {
-    id: "4", title: "III. Physics", file: "3_0_next_section.html",
-    subchapters: [
-      { title: "Subsection", file: "3_1_subsection.html" }
-    ]
-  }
+{
+  id: "4", title: "III. Core Physics", file: "3_0_Physics.html",
+  subchapters: [
+    { title: "Mechanics & Motion", file: "3_1_Mechanics.html" },
+    { title: "Sound & Waves", file: "3_2_Sound.html" },
+    { title: "Light, Optics & Vis.", file: "3_3_Optics.html" },
+    { title: "Heat & Thermodyn.", file: "3_4_Heat.html" },
+    { title: "Fluid Dynamics", file: "3_5_Fluids.html" },
+    { title: "Electromagnetism", file: "3_6_Electromag.html" },
+    { title: "Radioactivity", file: "3_7_Radioactivity.html" },
+    { title: "Astronomy", file: "3_8_Astronomy.html" },
+    { title: "Modern Physics", file: "3_9_Modern.html" }
+  ]
+},
+{
+  id: "5", title: "IV. Other Science", file: "4_0_OtherScience.html",
+  subchapters: [
+    { title: "Chemistry", file: "4_1_Chemistry.html" },
+    { title: "Biology", file: "4_2_Biology.html" },
+    { title: "Biophysics", file: "4_3_Biophysics.html" },
+    { title: "Environmental Physics", file: "4_4_Environmental.html" },
+    { title: "Information Theory", file: "4_5_InfoTheory.html" }
+  ]
+}, 
+{
+  id: "6", title: "V. Special Topics", file: "5_0_SpecialTopics.html",
+  subchapters: [
+    { title: "Lab Hacks", file: "5_1_LabHacks.html" },
+    { title: "Creative Lab Technqs", file: "5_2_CreativeTech.html" },
+    { title: "Optical Workbench", file: "5_3_OpticalWorkbench.html" },
+    { title: "Advanced Projects", file: "5_4_AdvancedProjects.html" },
+    { title: "Capstone Ideas", file: "5_5_CapstoneIdeas.html" }
+  ]
+},
+{
+  id: "7", title: "VI. Beyond the Lab", file: "6_0_BeyondLab.html",
+  subchapters: [
+    { title: "Inquiry Extensions", file: "6_1_Inquiry.html" },
+    { title: "Sharing Results", file: "6_2_Sharing.html" },
+    { title: "Your Own Experiments", file: "6_3_YourExperiments.html" },
+    { title: "Next Steps", file: "6_4_NextSteps.html" }
+  ]
+},
+{
+  id: "8", title: "Appendices", file: "7_0_Appendices.html",
+  subchapters: [
+    { title: "A. Sensor Specs", file: "7_1_SensorSpecs.html" },
+    { title: "B. AI Prompt Library", file: "7_2_PromptLibrary.html" },
+    { title: "C. Safety Guide by Topic", file: "7_3_SafetyByTopic.html" },
+    { title: "D. Suggested Equipment", file: "7_4_Equipment.html" },
+    { title: "E. List of Experiments", file: "7_5_ExperimentList.html" },
+    { title: "F. Glossary of Terms", file: "7_6_Glossary.html" },
+    { title: "G. Index", file: "7_7_Index.html" }
+  ]
+}  
 ];
 /*
 const chapters = [
