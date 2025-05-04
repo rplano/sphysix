@@ -69,4 +69,3 @@ SPhysix - Smartphone Physics Experiments with AI - is more than a collection of 
 - [D. Suggested Equipment](chapters/D_Equipment.html)  
 - [E. List of Experiments](experiments.html)  
 - [F. Glossary of Terms](chapters/F_Glossary.html)  
-- [G. Index](chapters/G_Index.html)
