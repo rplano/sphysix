@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2.4 How to Measure
+title: 1.4 How to Measure
 ---
 
 ## How to Measure
