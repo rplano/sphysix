@@ -69,7 +69,7 @@ ul {
 ol {
   text-align: left;
 }
-/*
+
 ul.sidenav {
   list-style-type: none;
   margin: 0;
@@ -79,12 +79,6 @@ ul.sidenav {
   background-color: #f1f1f1;
   position: relative;
   overflow: auto;
-}
-*/
-ul.sidenav {
-  display: flex;
-  align-items: center;
-  flex-wrap: wrap;
 }
 
 ul.sidenav p a {
@@ -108,16 +102,6 @@ ul.sidenav li a {
 
 ul.sidenav li a.active {
   color: #34ade3;
-}
-
-ul.sidenav .logo-item {
-  flex-shrink: 0;
-  padding: 5px;
-}
-
-.sidenav-logo {
-  height: 50px; /* tweak this as needed */
-  width: auto;
 }
 
 /* === Responsive tweaks (original) === */
