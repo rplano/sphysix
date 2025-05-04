@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1.5 Apps and Tools: What to Install
+title: 1.5 Apps and Tools - What to Install
 ---
 
 ## Apps and Tools: What to Install
