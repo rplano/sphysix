@@ -21,15 +21,15 @@ SPhysix - Smartphone Physics Experiments with AI - is more than a collection of 
 - [Data Acquisition](chapters/1_3_Data.html)
 - [How to Measure](chapters/1_4_Measure.html)
 - [Apps and Tools](chapters/1_5_Apps.html)
-
-#### Part II: Math Without Fear
-- Making Sense of Data  
-- Graphs Tell Stories  
-- Units and Scales  
-- How to Trust a Number  
-- AI-Powered Math  
-- From Curiosity to Equation  
-
+ 
+#### [Part II: Math Without Fear](chapters/2_0_Math.html)
+- [Making Sense of Data](chapters/2_1_Data.html)  
+- [Graphs Tell Stories](chapters/2_2_Graphs.html)  
+- [Units and Scales](chapters/2_3_Units.html)  
+- [How to Trust a Number](chapters/2_4_Trust.html)  
+- [AI-Powered Math](chapters/2_5_AI.html)  
+- [From Curiosity to Equation](chapters/2_6_Equation.html)
+  
 #### Part III: Core Physics
 - Mechanics & Motion  
 - Sound & Waves  
