@@ -17,7 +17,7 @@ const book = [
     ]
   },
   {
-    id: "3", title: ""III. Physics", file: "3_0_next_section.html",
+    id: "3", title: "III. Physics", file: "3_0_next_section.html",
     subchapters: [
       { title: "Subsection", file: "3_1_subsection.html" }
     ]
