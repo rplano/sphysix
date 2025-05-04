@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 2.0 Part I – The Smartphone Science Toolkit
+title: 1.0 Part I – The Smartphone Science Toolkit
 ---
 
 # Part I: The Smartphone Science Toolkit
