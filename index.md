@@ -7,9 +7,8 @@ title: Home
 
 SPhysix - Smartphone Physics Experiments with AI - is more than a collection of clever physics experiments. It is a new way of thinking about science, learning, and the tools we already carry in our pockets. With the sensors built into modern smartphones and the analytical capabilities now made accessible by artificial intelligence, a new age of experimentation is possible—one that is personal, portable, and powerful.
 
+---
 ### Table of Contents
-
-- Prologue
 
 #### Preface
 - Welcome  
@@ -73,9 +72,7 @@ SPhysix - Smartphone Physics Experiments with AI - is more than a collection of 
 - F. Glossary of Terms  
 - G. Index
 
+---
 ## Quick Links
-
 - [ReadMe](readme.md)
 - [GitHub Repo](https://github.com/rplano/sphysix)
-
----
