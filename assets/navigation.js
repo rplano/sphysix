@@ -15,7 +15,7 @@ const book = [
     ]
   },
   {
-    id: "2", title: "I. Smartphone", file: "1_0_Smartphone.html",
+    id: "2", title: "Smartphone", file: "1_0_Smartphone.html",
     subchapters: [
       { title: "Smartphone Sensors", file: "1_1_Sensors.html" },	
       { title: "Accessories", file: "1_2_Accessories.html" },
@@ -25,7 +25,7 @@ const book = [
     ]
   },
   {
-  id: "3", title: "II. Math Without Fear", file: "2_0_Math.html",
+  id: "3", title: "Math", file: "2_0_Math.html",
   subchapters: [
     { title: "Making Sense of Data", file: "2_1_Data.html" },
     { title: "Graphs Tell Stories", file: "2_2_Graphs.html" },
@@ -36,7 +36,7 @@ const book = [
   ]
   },
 {
-  id: "4", title: "III. Core Physics", file: "3_0_Physics.html",
+  id: "4", title: "Physics", file: "3_0_Physics.html",
   subchapters: [
     { title: "Mechanics & Motion", file: "3_1_Mechanics.html" },
     { title: "Sound & Waves", file: "3_2_Sound.html" },
@@ -50,7 +50,7 @@ const book = [
   ]
 },
 {
-  id: "5", title: "IV. Other Science", file: "4_0_OtherScience.html",
+  id: "5", title: "Sciences", file: "4_0_OtherScience.html",
   subchapters: [
     { title: "Chemistry", file: "4_1_Chemistry.html" },
     { title: "Biology", file: "4_2_Biology.html" },
@@ -60,7 +60,7 @@ const book = [
   ]
 }, 
 {
-  id: "6", title: "V. Special Topics", file: "5_0_SpecialTopics.html",
+  id: "6", title: "Special", file: "5_0_SpecialTopics.html",
   subchapters: [
     { title: "Lab Hacks", file: "5_1_LabHacks.html" },
     { title: "Creative Lab Technqs", file: "5_2_CreativeTech.html" },
@@ -70,7 +70,7 @@ const book = [
   ]
 },
 {
-  id: "7", title: "VI. Beyond the Lab", file: "6_0_BeyondLab.html",
+  id: "7", title: "Beyond", file: "6_0_BeyondLab.html",
   subchapters: [
     { title: "Inquiry Extensions", file: "6_1_Inquiry.html" },
     { title: "Sharing Results", file: "6_2_Sharing.html" },
@@ -79,7 +79,7 @@ const book = [
   ]
 },
 {
-  id: "8", title: "Appendices", file: "7_0_Appendices.html",
+  id: "8", title: "Appendix", file: "7_0_Appendices.html",
   subchapters: [
     { title: "A. Sensor Specs", file: "7_1_SensorSpecs.html" },
     { title: "B. AI Prompt Library", file: "7_2_PromptLibrary.html" },
