@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1.2 How to Use This Book
+title: 0.2 How to Use This Book
 ---
 
 ## How to Use This Book
