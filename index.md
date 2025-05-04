@@ -10,10 +10,10 @@ SPhysix - Smartphone Physics Experiments with AI - is more than a collection of 
 ---
 ## Table of Contents
 
-#### Preface
-- Welcome  
-- How to  
-- Safety First  
+#### [Preface](chapters/0_0_Preface.html)
+- [Welcome](chapters/0_1_Welcome.html)  
+- [How To](chapters/0_2_How_To.html)  
+- [Safety First](chapters/0_3_Safety_First.html)  
 
 #### Part I: The Smartphone
 - Smartphone Sensors  
