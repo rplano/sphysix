@@ -2,11 +2,21 @@ const baseurl = "/sphysix";
 
 const book = [
   {
-    id: "1", title: "I. Preface", file: "1_0_Preface.html",
+    id: "0", title: "0. Preface", file: "0_0_Preface.html",
     subchapters: [
-      { title: "Welcome", file: "1_1_Welcome.html" },
-      { title: "How To", file: "1_2_How_To.html" },
-      { title: "Safety First", file: "1_3_Safety_First.html" }
+      { title: "Welcome", file: "0_1_Welcome.html" },
+      { title: "How To", file: "0_2_How_To.html" },
+      { title: "Safety First", file: "0_3_Safety_First.html" }
+    ]
+  },
+  {
+    id: "1", title: "I. Smartphone", file: "1_0_Smartphone.html",
+    subchapters: [
+      { title: "Smartphone Sensors", file: "1_1_Sensors.html" },	
+      { title: "Accessories", file: "1_2_Accessories.html" },
+      { title: "Data Acquisition", file: "1_3_Data.html" },	
+      { title: "How to Measure", file: "1_4_Measure.html" },
+      { title: "Apps and Tools", file: "1_5_Apps.html" }
     ]
   },
   {
