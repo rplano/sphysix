@@ -1,8 +1,6 @@
-title: My Cool Site
-description: A sample Jekyll site hosted on GitHub Pages
+title: SPhysix
+description: Smartphone Physics with AI
 baseurl: "/sphysix"  # important for GitHub project pages
 url: "https://rplano.github.io/"
-
-theme: minima
+theme: null
 markdown: kramdown
-permalink: pretty
