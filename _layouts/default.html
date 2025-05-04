@@ -13,11 +13,14 @@
 </head>
 <body><center>
 <div id="wrap">
-  <ul class="sidenav" id="main-nav">
-    <p><a href="{{ site.baseurl }}/index.html">{{ site.title }}</a></p>
-    <!-- navigation.js will populate this -->
-  </ul>
-
+  <div class="nav-wrapper">
+    <img src="{{ site.baseurl }}/images/SPHYSIX.png" alt="SPHYSIX logo" class="nav-logo" />
+    <ul class="sidenav" id="main-nav">
+      <p><a href="{{ site.baseurl }}/index.html">{{ site.title }}</a></p>
+      <!-- navigation.js will populate this -->
+    </ul>
+  </div>
+  
   <div class="content">
     {{ content }}
     <p class="footer">
