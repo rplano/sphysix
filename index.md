@@ -41,7 +41,7 @@ SPhysix - Smartphone Physics Experiments with AI - is more than a collection of 
 - Astronomy  
 - Modern Physics  
 
-#### Part IV: Other Science
+#### Part IV: Other Sciences
 - Chemistry  
 - Biology  
 - Biophysics  
