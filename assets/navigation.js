@@ -2,7 +2,7 @@ const baseurl = "/sphysix";
 
 const book = [
   {
-    id: "1", title: "Part I – Preface", file: "1_0_Preface.html",
+    id: "1", title: "I. Preface", file: "1_0_Preface.html",
     subchapters: [
       { title: "Welcome", file: "1_1_Welcome.html" },
       { title: "How To", file: "1_2_How_To.html" },
@@ -10,14 +10,14 @@ const book = [
     ]
   },
   {
-    id: "2", title: "Part II – Introduction", file: "2_0_part_ii.html",
+    id: "2", title: "II. Introduction", file: "2_0_part_ii.html",
     subchapters: [
       { title: "Mechanics", file: "2_1_mechanics.html" },
       { title: "More Mechanics", file: "2_2_more_mechanics.html" }
     ]
   },
   {
-    id: "3", title: "Next Section", file: "3_0_next_section.html",
+    id: "3", title: ""III. Physics", file: "3_0_next_section.html",
     subchapters: [
       { title: "Subsection", file: "3_1_subsection.html" }
     ]
