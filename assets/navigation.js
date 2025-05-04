@@ -38,11 +38,11 @@ const book = [
 {
   id: "4", title: "Physics", file: "3_0_Physics.html",
   subchapters: [
-    { title: "Mechanics & Motion", file: "3_1_Mechanics.html" },
-    { title: "Sound & Waves", file: "3_2_Sound.html" },
-    { title: "Light, Optics & Vis.", file: "3_3_Optics.html" },
-    { title: "Heat & Thermodyn.", file: "3_4_Heat.html" },
-    { title: "Fluid Dynamics", file: "3_5_Fluids.html" },
+    { title: "Mechanics", file: "3_1_Mechanics.html" },
+    { title: "Waves", file: "3_2_Sound.html" },
+    { title: "Optics", file: "3_3_Optics.html" },
+    { title: "Heat", file: "3_4_Heat.html" },
+    { title: "Fluids", file: "3_5_Fluids.html" },
     { title: "Electromagnetism", file: "3_6_Electromag.html" },
     { title: "Radioactivity", file: "3_7_Radioactivity.html" },
     { title: "Astronomy", file: "3_8_Astronomy.html" },
