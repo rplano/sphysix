@@ -1,7 +1,3 @@
----
-layout: default
-title: About Me
----
 
 # Hello SPhysix!
-I'm a Markdown file using a layout!
+This project is currently work in progress, I would say I am about halfway done.
