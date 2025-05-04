@@ -81,13 +81,13 @@ const book = [
 {
   id: "8", title: "Appendix", file: "A_Sensors.html",
   subchapters: [
-    { title: "A. Sensor Specs", file: "A_Sensors.html" },
-    { title: "B. AI Prompt Library", file: "B_Prompts.html" },
-    { title: "C. Safety Guide by Topic", file: "C_Safety.html" },
-    { title: "D. Suggested Equipment", file: "D_Equipment.html" },
-    { title: "E. List of Experiments", file: "E_Experiments.html" },
-    { title: "F. Glossary of Terms", file: "F_Glossary.html" },
-    { title: "G. Index", file: "G_Index.html" }
+    { title: "Sensor Specs", file: "A_Sensors.html" },
+    { title: "Prompt Library", file: "B_Prompts.html" },
+    { title: "Safety Guide", file: "C_Safety.html" },
+    { title: "Equipment", file: "D_Equipment.html" },
+    { title: "Experiments", file: "../experiments.html" },
+    { title: "Glossary", file: "F_Glossary.html" },
+    { title: "Index", file: "G_Index.html" }
   ]
 }  
 ];
