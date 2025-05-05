@@ -3,7 +3,7 @@ layout: default
 title: 4.2 Biology
 ---
 
-## Biology
+# Biology
 
 Biology is often seen as a "soft" science—more about observation than measurement. But in truth, it's full of motion, cycles, energy, and structure—all of which can be captured and quantified using the sensors in a smartphone.
 
