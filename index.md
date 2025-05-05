@@ -7,6 +7,8 @@ title: Home
 
 SPhysix - Smartphone Physics Experiments with AI - is more than a collection of clever physics experiments. It is a new way of thinking about science, learning, and the tools we already carry in our pockets. With the sensors built into modern smartphones and the analytical capabilities now made accessible by artificial intelligence, a new age of experimentation is possible—one that is personal, portable, and powerful.
 
+**Note:** In the creation of this book, heavy use was made of **Generative AI** (ChatGPT 4o).  For details please read the [preface](chapters/0_0_Preface.html).
+
 ---
 ## Table of Contents
 
