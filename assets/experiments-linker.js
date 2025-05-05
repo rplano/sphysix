@@ -1,4 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
+  const currentFile = window.location.pathname.split("/").pop();
+  console.log("currentFile: "+currentFile);
+	
   const experimentList = document.querySelectorAll("strong"); // adjust selector if needed
 
   const prefixToFile = {
