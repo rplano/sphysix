@@ -3,7 +3,7 @@ layout: default
 title: 3.4 Heat & Thermodynamics
 ---
 
-## Heat & Thermodynamics
+# Heat & Thermodynamics
 
 Heat is more than just a sensation—it is energy in motion. In this chapter, we explore how thermal energy is transferred, stored, and transformed in the world around us. Using smartphone tools like thermal cameras, barometers, and infrared sensors, students can visualize the invisible: from convection currents and radiant heat to the cooling power of evaporation and the surprising thermodynamics of stretched rubber. Through real-world materials and clever digital tools, abstract thermodynamic principles become not only tangible but measurable. This chapter invites students to engage directly with the physics of energy—revealing the hidden patterns behind temperature, transformation, and equilibrium.
 
