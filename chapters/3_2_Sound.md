@@ -3,7 +3,7 @@ layout: default
 title: 3.2 Sound & Waves
 ---
 
-## Sound & Waves
+# Sound & Waves
 
 From the hum of a tuning fork to ripples on a lake, waves are everywhere—carrying energy, transferring momentum, and encoding information in rhythmic motion. In this chapter, we explore the physics of mechanical and acoustic waves using tools you already have: a smartphone, a microphone, and a bit of curiosity.
 
