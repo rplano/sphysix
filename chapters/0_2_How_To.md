@@ -3,7 +3,7 @@ layout: default
 title: 0.2 How to Use This Book
 ---
 
-## How to Use This Book
+# How to Use This Book
 
 This book is both a laboratory manual and a source of inspiration. You are not expected to read it cover to cover, though you certainly can. Think of it as a modular guide: each chapter stands on its own, with experiments grouped by topic, theme, or physical principle.
 
