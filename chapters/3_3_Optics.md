@@ -3,7 +3,7 @@ layout: default
 title: 3.3 Light, Optics & Vision
 ---
 
-## Light, Optics & Vision
+# Light, Optics & Vision
 
 Light reveals the world to us — not just through sight, but through science. It behaves as both wave and particle, travels across the universe, and bends, scatters, interferes, and reflects in ways that hold the key to understanding matter, motion, and energy. In this chapter, we explore the nature of light and vision through hands-on experiments that connect the everyday and the extraordinary.
 
