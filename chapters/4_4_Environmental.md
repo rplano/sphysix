@@ -3,7 +3,7 @@ layout: default
 title: 4.4 Environmental Physics
 ---
 
-## Environmental Physics
+# Environmental Physics
 
 Environmental physics is where physical law meets everyday experience — in sunlight and shadow, air pressure and rainfall, heatwaves and breezes. With nothing more than a smartphone, students become environmental investigators, collecting real-world data on light, sound, temperature, altitude, gas flow, and even invisible radiation.
 
