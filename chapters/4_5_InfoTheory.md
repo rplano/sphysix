@@ -3,7 +3,7 @@ layout: default
 title: 4.5 Information Theory & Signal Science
 ---
 
-## Information Theory & Signal Science
+# Information Theory & Signal Science
 
 Information is all around us—carried by sound, light, radio waves, and digital signals. Whether we're streaming music, scanning a QR code, or sending a text, we rely on the physics of signals to transmit, encode, and decode meaning.
 
