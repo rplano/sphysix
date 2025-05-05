@@ -3,7 +3,7 @@ layout: default
 title: 2.3 Units and Scales
 ---
 
-## A Gentle Word on Units and Scales
+# A Gentle Word on Units and Scales
 
 In any scientific experiment, numbers are only part of the picture. A distance of “5” means very little unless we know—*five what*? Meters? Millimeters? Light-years? Units give numbers meaning. They anchor measurements in the real world and allow us to compare, communicate, and make sense of what we observe.
 
