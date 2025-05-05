@@ -3,7 +3,7 @@ layout: default
 title: 3.7 Radioactivity & Nuclear Physics
 ---
 
-## Radioactivity & Nuclear Physics
+# Radioactivity & Nuclear Physics
 
 At the heart of every atom lie phenomena that reveal the deepest workings of the universe. This chapter opens a window into the invisible world of radioactivity and nuclear physics through smartphone-powered experiments and investigations. From detecting high-energy particles with your phone's camera to visualizing the trails of cosmic rays, we explore radioactive decay, nuclear interactions, and the quiet presence of natural radiation all around us.
 
