@@ -3,7 +3,7 @@ layout: default
 title: 4.1 Chemistry & Materials Science
 ---
 
-## Chemistry & Materials Science
+# Chemistry & Materials Science
 
 From fizzing reactions to glowing colors, chemistry reveals how matter transforms — and smartphones can help us see it. This chapter explores chemical and material behavior using simple tools, common substances, and phone-based sensors.
 
