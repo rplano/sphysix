@@ -3,7 +3,7 @@ layout: default
 title: 3.8 Astronomy & Astrophysics
 ---
 
-## Astronomy & Astrophysics
+# Astronomy & Astrophysics
 
 Looking up at the night sky, we're drawn into some of the most profound questions in science: How big is the universe? How far away are the stars? And how can we possibly measure such unimaginable distances? In this chapter, we leave the laboratory behind and step outside—sometimes far outside. Surprisingly, the tools in your pocket are enough to begin answering these ancient questions. With a smartphone's sensors, camera, and a bit of creative thinking, you can estimate the size of the Earth, the distance to the Moon, the brightness of Venus, and even approximate the mass of the Sun.
 
