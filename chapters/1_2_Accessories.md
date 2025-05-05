@@ -3,7 +3,7 @@ layout: default
 title: 1.2 Accessories and Add-ons
 ---
 
-## Accessories and Add-ons
+# Accessories and Add-ons
 
 While a smartphone alone is remarkably capable, a small collection of inexpensive accessories can dramatically extend its functionality. Some of these tools are homemade, some purchased, and many are already lying around your home or school lab. This chapter outlines optional equipment that helps you build more advanced experiments, increase accuracy, or explore new areas of science entirely.
 
