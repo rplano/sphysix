@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const experimentList = document.querySelectorAll("li"); // adjust selector if needed
+  const experimentList = document.querySelectorAll("strong"); // adjust selector if needed
 
   const prefixToFile = {
 	MECH: "3_1_Mechanics.html",
