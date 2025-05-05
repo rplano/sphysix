@@ -3,7 +3,7 @@ layout: default
 title: 1.4 How to Measure
 ---
 
-## How to Measure
+# How to Measure
 
 One of the most empowering aspects of modern science education is learning how to turn the world into numbers—and how to make those numbers meaningful. In classical laboratory settings, this was done with rulers, stopwatches, and carefully calibrated instruments. In the world of *Sphysix*, your smartphone takes on this role, often in surprisingly elegant ways.
 
