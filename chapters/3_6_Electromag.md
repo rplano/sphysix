@@ -3,7 +3,7 @@ layout: default
 title: 3.6 Electromagnetism & Fields
 ---
 
-## Electromagnetism & Fields
+# Electromagnetism & Fields
 
 Electricity and magnetism are two facets of the same fundamental force—beautifully unified by Maxwell's equations and essential to nearly every aspect of modern technology, from power grids and motors to wireless communication and MRI machines. In this chapter, we explore how smartphones can be transformed into instruments for detecting magnetic fields, visualizing induced currents, and probing electromagnetic waves. Equipped with built-in magnetometers, microphones, antennas, and cameras, your phone becomes a pocket-sized physics lab for exploring both static and dynamic field effects, electromagnetic induction, wave propagation, and the invisible infrastructure of our digital world.
 
