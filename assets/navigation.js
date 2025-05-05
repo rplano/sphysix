@@ -108,10 +108,11 @@ if (currentFile === "" || currentFile === "index.html" || currentFile === "exper
   
 } else {
   // Inside a chapter — find matching parent
+
+  // set active link in menu bar
   const currentChapter = book.find(chap =>
     chap.file === currentFile || chap.subchapters.some(sub => sub.file === currentFile)
   );
-
   if (currentChapter) {
     currentChapter.subchapters.forEach(sub => {
       const li = document.createElement("li");
@@ -123,4 +124,27 @@ if (currentFile === "" || currentFile === "index.html" || currentFile === "exper
       nav.appendChild(li);
     });
   }
+
+  // next, in case an experiment gets called directly, smoothly navigate to it
+  window.addEventListener('DOMContentLoaded', () => {
+  const hash = window.location.hash;
+  console.log("hash:"+hash);
+  if (!hash) return;
+
+  const code = hash.substring(1); // remove the '#' symbol
+
+  // Try to find a text node that includes the code
+  const walker = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT);
+  let node;
+  while ((node = walker.nextNode())) {
+    if (node.nodeValue.includes(code)) {
+      const span = document.createElement('span');
+      span.id = code;
+      node.parentNode.insertBefore(span, node);
+      span.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      break;
+    }
+  }
+  });
+
 }
