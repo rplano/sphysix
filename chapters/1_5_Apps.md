@@ -3,7 +3,7 @@ layout: default
 title: 1.5 Apps and Tools - What to Install
 ---
 
-## Apps and Tools: What to Install
+# Apps and Tools: What to Install
 
 To unlock the full experimental potential of your smartphone, a few well-chosen apps are essential. This section provides a curated selection of free or low-cost tools that allow access to sensor data, aid in data collection and analysis, and even bring in the capabilities of artificial intelligence when needed. The focus is on accessibility, reliability, and educational value—nothing proprietary, nothing bloated, just what you need to get started.
 
