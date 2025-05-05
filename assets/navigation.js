@@ -1,4 +1,4 @@
-const baseurl = "/sphysix";  
+const baseurl = ""; //"/sphysix";  
 
 const book = [
   {
