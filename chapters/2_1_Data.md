@@ -3,7 +3,7 @@ layout: default
 title: 2.1 Making Sense of Data
 ---
 
-## Making Sense of Data (Without Doing the Math Yourself)
+# Making Sense of Data (Without Doing the Math Yourself)
 
 Data is what happens when curiosity meets measurement. You drop a phone from a table, and you get acceleration readings. You walk up the stairs with the barometer running and collect pressure values. You shine a flashlight through a piece of plastic and the camera captures brightness values across time.
 
