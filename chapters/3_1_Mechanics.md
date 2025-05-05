@@ -1,4 +1,9 @@
-## Mechanics & Motion
+---
+layout: default
+title: 3.1 Mechanics & Motion
+---
+
+# Mechanics & Motion
 
 From the swing of a pendulum to the flight of a rubber band, mechanics is all around us. It is the physics of motion and force — the foundation of how things move, why they fall, and what keeps them in place. In this chapter, we'll explore motion through smartphone sensors like the accelerometer and gyroscope, investigate Newton's laws with simple setups, and experiment with concepts like friction, momentum, and oscillation. Many of the experiments here require little more than your smartphone and curiosity, but they open the door to understanding the principles that govern everything from the smallest falling pebble to the largest planetary orbit.
 
