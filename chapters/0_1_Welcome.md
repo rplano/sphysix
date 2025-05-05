@@ -3,7 +3,7 @@ layout: default
 title: 0.1 Welcome
 ---
 
-## Welcome to Sphysix
+# Welcome to Sphysix
 
 Sphysix is more than a collection of clever physics experiments—it is a new way of thinking about science, learning, and the tools we already carry in our pockets. With the sensors built into modern smartphones and the analytical capabilities now made accessible by artificial intelligence, a new age of experimentation is possible—one that is personal, portable, and powerful.
 
