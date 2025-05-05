@@ -3,7 +3,7 @@ layout: default
 title: 3.5 Fluid Dynamics
 ---
 
-## Fluid Dynamics
+# Fluid Dynamics
 
 From the gentle rise of colored water through a paper towel to the swirling chaos of turbulence in a draining sink, fluid dynamics reveals some of the most visually captivating and conceptually rich phenomena in physics. It describes the behavior of liquids and gases, both at rest and in motion, and touches nearly every aspect of the natural world — from weather systems and blood flow to ink diffusion and the flight of airplanes.
 
