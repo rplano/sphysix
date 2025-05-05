@@ -3,7 +3,7 @@ layout: default
 title: 1.1 Smartphone Sensors – An Overview
 ---
 
-## Smartphone Sensors – An Overview
+# Smartphone Sensors – An Overview
 
 The modern smartphone is a remarkable piece of engineering. Beyond its obvious functions—calling, messaging, browsing—it quietly hosts a dense array of highly sensitive sensors. These components were designed to enhance the user experience: adjusting screen brightness, rotating displays, recognizing gestures, and tracking movement. But they also happen to be ideal for experimental science.
 
