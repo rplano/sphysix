@@ -30,18 +30,19 @@ document.addEventListener("DOMContentLoaded", () => {
     console.log("html: "+html);
     console.log("match: "+match);
 
-    if (match) {
-      const code = match[1];
-      const prefix = code.split("-");
-      console.log("prefix: "+prefix);
-      const targetFile = prefixToFile[prefix[0]];
-      console.log("targetFile: "+targetFile);
-
-      if (targetFile) {
-        const link = `<a href="chapters/${targetFile}#${code}"><strong>${code}</strong></a>`;
-        el.innerHTML = html.replace(`**${code}**`, link);
-      }
+    if (match && match.length > 0) {
+	const code = match[0];
+	const prefix = code.split("-");
+	console.log("prefix: "+prefix);
+	const targetFile = prefixToFile[prefix[0]];
+	console.log("targetFile: "+targetFile);
+		
+	  if (targetFile) {
+	    const link = `<a href="chapters/${targetFile}#${code}"><strong>${code}</strong></a>`;
+	    el.innerHTML = html.replace(code, link);
+	  }
     }
+	 
   });
   }
 });
