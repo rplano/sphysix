@@ -32,8 +32,10 @@ document.addEventListener("DOMContentLoaded", () => {
 
     if (match) {
       const code = match[1];
-      const [prefix] = code.split("-");
-      const targetFile = prefixToFile[prefix];
+      const prefix = code.split("-");
+      console.log("prefix: "+prefix);
+      const targetFile = prefixToFile[prefix[0]];
+      console.log("targetFile: "+targetFile);
 
       if (targetFile) {
         const link = `<a href="chapters/${targetFile}#${code}"><strong>${code}</strong></a>`;
