@@ -3,7 +3,7 @@ layout: default
 title: 4.3 Biophysics & the Human Body
 ---
 
-## Biophysics & the Human Body
+# Biophysics & the Human Body
 
 What happens when you turn a smartphone toward your own body? You open a window into your circulation, movement, breathing, stress, and sleep — all measurable, all meaningful. This chapter explores the powerful intersection of physics, physiology, and technology, using everyday mobile devices to understand how we function, adapt, and respond.
 
