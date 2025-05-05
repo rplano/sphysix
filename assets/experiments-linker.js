@@ -27,15 +27,15 @@ document.addEventListener("DOMContentLoaded", () => {
   experimentList.forEach(el => {
     const html = el.innerHTML;
     const match = html.match(codePattern); //(/\*\*(\w+-\d+)\*\*/); // matches **MECH-01** etc.
-    console.log("html: "+html);
-    console.log("match: "+match);
+    //console.log("html: "+html);
+    //console.log("match: "+match);
 
     if (match && match.length > 0) {
 	const code = match[0];
 	const prefix = code.split("-");
-	console.log("prefix: "+prefix);
+	//console.log("prefix: "+prefix);
 	const targetFile = prefixToFile[prefix[0]];
-	console.log("targetFile: "+targetFile);
+	//console.log("targetFile: "+targetFile);
 		
 	  if (targetFile) {
 	    const link = `<a href="chapters/${targetFile}#${code}"><strong>${code}</strong></a>`;
