@@ -14,7 +14,6 @@ Some experiments are classics—reimagined through a modern lens. Others use AI-
 https://static.publiclab.org/#wiki/near-infrared-camera
 
 ---
-n
 
 ### Build Your Microscope
 
