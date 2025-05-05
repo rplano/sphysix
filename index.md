@@ -41,7 +41,18 @@ SPhysix - Smartphone Physics Experiments with AI - is more than a collection of 
 - Electromagnetism  
 - Radioactivity  
 - Astronomy  
-- Modern Physics  
+- Modern Physics
+
+#### [Part III: Core Physics](chapters/3_0_Physics.html)
+- [Mechanics & Motion](chapters/3_1_Mechanics.html)  
+- [Sound & Waves](chapters/3_2_Sound.html)  
+- [Light, Optics & Vision](chapters/3_3_Optics.html)  
+- [Heat & Thermodynamics](chapters/3_4_Heat.html)  
+- [Fluid Dynamics](chapters/3_5_Fluids.html)  
+- [Electromagnetism](chapters/3_6_Electromag.html)  
+- [Radioactivity](chapters/3_7_Radioactivity.html)  
+- [Astronomy](chapters/3_8_Astronomy.html)  
+- [Modern Physics](chapters/3_9_Modern.html)
 
 #### Part IV: Other Sciences
 - Chemistry  
@@ -49,6 +60,13 @@ SPhysix - Smartphone Physics Experiments with AI - is more than a collection of 
 - Biophysics  
 - Environmental Physics  
 - Information Theory  
+
+#### [Part IV: Other Sciences](chapters/4_0_OtherScience.html)
+- [Chemistry](chapters/4_1_Chemistry.html)  
+- [Biology](chapters/4_2_Biology.html)  
+- [Biophysics](chapters/4_3_Biophysics.html)  
+- [Environmental Physics](chapters/4_4_Environmental.html)  
+- [Information Theory](chapters/4_5_InfoTheory.html)
 
 #### Part V: Special Topics
 - Lab Hacks  
