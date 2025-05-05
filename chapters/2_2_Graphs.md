@@ -3,7 +3,7 @@ layout: default
 title: 2.2 Graphs Tell Stories
 ---
 
-## Graphs Tell Stories (Not Just Slopes and Labels)
+# Graphs Tell Stories (Not Just Slopes and Labels)
 
 A graph is not just a visual representation of numbers—it's a snapshot of a process, a silent witness to something that changed over time or space. In Sphysix, graphs are not used to impress with complexity. They are used to make the invisible visible.
 
