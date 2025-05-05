@@ -3,7 +3,7 @@ layout: default
 title: 1.3 Data Acquisition and AI
 ---
 
-## Data Acquisition and AI
+# Data Acquisition and AI
 
 At the heart of every experiment lies a simple question: how do we capture and interpret what we observe? Smartphones have revolutionized this process. Not only do they collect data with impressive precision, they also allow students and educators to go a step further—by interpreting that data with the help of artificial intelligence.
 
