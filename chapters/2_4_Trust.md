@@ -3,7 +3,7 @@ layout: default
 title: 2.4 How to Trust a Number
 ---
 
-## How Much Trust Can You Put in a Number?
+# How Much Trust Can You Put in a Number?
 
 In science, no number stands entirely alone. Every measurement you make—whether it's the temperature of a liquid, the time of a fall, or the brightness of a star—carries with it a certain level of uncertainty. Learning to recognize and account for that uncertainty is at the heart of good experimental thinking.
 
