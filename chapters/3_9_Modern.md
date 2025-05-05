@@ -3,7 +3,7 @@ layout: default
 title: 3.9 Constants & Modern Physics
 ---
 
-## Constants & Modern Physics
+# Constants & Modern Physics
 
 Modern physics begins where classical understanding reaches its limits—at the atomic, subatomic, and cosmological scales, or when exploring the fundamental constants that define the universe itself. This chapter brings those lofty ideas within reach through hands-on experiments that connect the abstract with the observable. With nothing more than a smartphone and a few clever materials, students can explore concepts like Planck's constant, quantum behavior, diamagnetism, and the speed of light. These experiments are not about replicating precision lab results, but about building intuition—making deep physics visible, tangible, and real through creativity, curiosity, and direct experience.
 
