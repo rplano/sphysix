@@ -3,7 +3,7 @@ layout: default
 title: 0.3 Safety First
 ---
 
-## Safety First
+# Safety First
 
 Curiosity and caution go hand in hand. While most of the experiments in this book are safe and suitable for home or classroom use, some involve tools, environments, or physical effects that require care and attention.
 
