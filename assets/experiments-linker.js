@@ -21,6 +21,8 @@ document.addEventListener("DOMContentLoaded", () => {
   experimentList.forEach(el => {
     const html = el.innerHTML;
     const match = html.match(/\*\*(\w+-\d+)\*\*/); // matches **MECH-01** etc.
+    console.log("html: "+html);
+    console.log("match: "+match);
 
     if (match) {
       const code = match[1];
