@@ -3,7 +3,7 @@ layout: default
 title: 2.6 From Curiosity to Equation
 ---
 
-## From Curiosity to Equation: When to Ask for a Formula
+# From Curiosity to Equation: When to Ask for a Formula
 
 One of the most liberating aspects of this new approach to science is the freedom to begin with a question rather than a formula. In traditional science classrooms, it’s common to be given a formula and asked to use it. But in real-world science—and especially in Sphysix—the process often runs the other way around. You observe something. You become curious. You collect data. Then, at some point, a question arises: *What relationship governs what I’m seeing?* That’s when the formula becomes meaningful.
 
