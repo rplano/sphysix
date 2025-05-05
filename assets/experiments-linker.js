@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", () => {
   const currentFile = window.location.pathname.split("/").pop();
-  console.log("currentFile: "+currentFile);
+  //console.log("currentFile: "+currentFile);
+  if (currentFile === "experiments.html") {
 	
   const experimentList = document.querySelectorAll("strong"); // adjust selector if needed
 
@@ -21,9 +22,11 @@ document.addEventListener("DOMContentLoaded", () => {
 	INFO: "4_5_InfoTheory.html"
   };
 
+  const codePattern = /([A-Z]+-\d{2})/g; // match MECH-01, OPT-02, etc.	
+	  
   experimentList.forEach(el => {
     const html = el.innerHTML;
-    const match = html.match(/\*\*(\w+-\d+)\*\*/); // matches **MECH-01** etc.
+    const match = html.match(codePattern); //(/\*\*(\w+-\d+)\*\*/); // matches **MECH-01** etc.
     console.log("html: "+html);
     console.log("match: "+match);
 
@@ -38,4 +41,6 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     }
   });
+  }
 });
+
