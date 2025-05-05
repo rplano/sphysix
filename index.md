@@ -31,17 +31,6 @@ SPhysix - Smartphone Physics Experiments with AI - is more than a collection of 
 - [How to Trust a Number](chapters/2_4_Trust.html)  
 - [AI-Powered Math](chapters/2_5_AI.html)  
 - [From Curiosity to Equation](chapters/2_6_Equation.html)
-  
-#### Part III: Core Physics
-- Mechanics & Motion  
-- Sound & Waves  
-- Light, Optics & Vision  
-- Heat & Thermodynamics  
-- Fluid Dynamics  
-- Electromagnetism  
-- Radioactivity  
-- Astronomy  
-- Modern Physics
 
 #### [Part III: Core Physics](chapters/3_0_Physics.html)
 - [Mechanics & Motion](chapters/3_1_Mechanics.html)  
@@ -53,13 +42,6 @@ SPhysix - Smartphone Physics Experiments with AI - is more than a collection of 
 - [Radioactivity](chapters/3_7_Radioactivity.html)  
 - [Astronomy](chapters/3_8_Astronomy.html)  
 - [Modern Physics](chapters/3_9_Modern.html)
-
-#### Part IV: Other Sciences
-- Chemistry  
-- Biology  
-- Biophysics  
-- Environmental Physics  
-- Information Theory  
 
 #### [Part IV: Other Sciences](chapters/4_0_OtherScience.html)
 - [Chemistry](chapters/4_1_Chemistry.html)  
